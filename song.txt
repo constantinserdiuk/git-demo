@@ -6,6 +6,5 @@ Oh, I believe in yesterday
 Suddenly
 I'm not half the man I used to be
 
-hello hello
-hello hello
----------------------
+some content
+and here!
